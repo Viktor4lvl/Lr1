@@ -1,6 +1,5 @@
 /// Wikipedia data models.
 library;
-#test4
 export 'src/api/get_article.dart';
 export 'src/api/search.dart';
 export 'src/api/summary.dart';
