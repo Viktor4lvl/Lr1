@@ -14,3 +14,7 @@ void main() {
     });
   });
 }
+
+class Awesome {
+  get isAwesome => null;
+}
